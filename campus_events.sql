@@ -1,17 +1,4 @@
-/*Kampüs Etkinlik Yönetim Sistemib SQL DOSYASI
-    230601035-Damla AKPINAR
-    230601040-Ülkü Bensu İNCE
-    230601050-Havin Ezgi GÜNEŞ
-*/
 
--- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
--- Anamakine: localhost
--- Üretim Zamanı: 21 Ara 2025, 17:00:44
--- Sunucu sürümü: 10.4.28-MariaDB
--- PHP Sürümü: 8.2.4
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
